@@ -1,9 +1,5 @@
 import React from 'react';
-<<<<<<< HEAD
 import { StyleSheet, Text, View, TextInput, Button, ImageBackground } from 'react-native';
-=======
-import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
->>>>>>> c1a1177ebf6dd5277a399d9d319f76938414e884
 
 export default class App extends React.Component {
   state = {
