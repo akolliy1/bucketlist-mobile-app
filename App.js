@@ -51,12 +51,8 @@ const styles = {
     padding: 'auto 10px'
   },
   text: {
-<<<<<<< HEAD
     paddingTop: 10,
     color: 'white'
-=======
-    paddingBottom: 10
->>>>>>> c1a1177ebf6dd5277a399d9d319f76938414e884
   },
   textResult: {
     paddingTop: 10
